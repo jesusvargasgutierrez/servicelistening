@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBG5How0uTchXSOKNu/q+zkxLw/fSj5zZWfKb9uwJafEVy+eNk3GcEKsqt1RjLoc/hdUctZlFRgZYP5MGYZmRQ==",
+  "success": true,
+  "projectFilePath": "C:\\develop\\ServiceListening\\serviceapp\\Serviceapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus.vargas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\develop\ServiceListening\BussinessService\bin\Debug\net5.0\BussinessService.deps.json
+C:\develop\ServiceListening\BussinessService\bin\Debug\net5.0\BussinessService.dll
+C:\develop\ServiceListening\BussinessService\bin\Debug\net5.0\ref\BussinessService.dll
+C:\develop\ServiceListening\BussinessService\bin\Debug\net5.0\BussinessService.pdb
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\BussinessService.csproj.AssemblyReference.cache
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\BussinessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\BussinessService.AssemblyInfoInputs.cache
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\BussinessService.AssemblyInfo.cs
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\BussinessService.csproj.CoreCompileInputs.cache
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\BussinessService.dll
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\ref\BussinessService.dll
+C:\develop\ServiceListening\BussinessService\obj\Debug\net5.0\BussinessService.pdb
