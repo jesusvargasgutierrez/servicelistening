@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "MBG5How0uTchXSOKNu/q+zkxLw/fSj5zZWfKb9uwJafEVy+eNk3GcEKsqt1RjLoc/hdUctZlFRgZYP5MGYZmRQ==",
+  "dgSpecHash": "x/5mC+XLz6mM9nSJOGBe2ZJCZM33TaISC0J/+VzFzgpxSoXW0L8J9GqAg1Qizgq6N11zvtvnwbWxQWXrrzrhXA==",
   "success": true,
   "projectFilePath": "C:\\develop\\ServiceListening\\serviceapp\\Serviceapp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jesus.vargas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\jesus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

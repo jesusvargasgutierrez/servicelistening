@@ -10,7 +10,6 @@ C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\TestProject1.deps.json
 C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\TestProject1.runtimeconfig.json
 C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\TestProject1.runtimeconfig.dev.json
 C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\TestProject1.dll
-C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\ref\TestProject1.dll
 C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\TestProject1.pdb
 C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\Castle.Core.dll
 C:\develop\ServiceListening\TestProject1\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -103,3 +102,4 @@ C:\develop\ServiceListening\TestProject1\obj\Debug\net5.0\TestProject1.dll
 C:\develop\ServiceListening\TestProject1\obj\Debug\net5.0\ref\TestProject1.dll
 C:\develop\ServiceListening\TestProject1\obj\Debug\net5.0\TestProject1.pdb
 C:\develop\ServiceListening\TestProject1\obj\Debug\net5.0\TestProject1.genruntimeconfig.cache
+C:\develop\ServiceListening\TestProject1\obj\Debug\net5.0\refint\TestProject1.dll

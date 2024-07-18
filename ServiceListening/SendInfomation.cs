@@ -107,6 +107,7 @@ namespace BussinessService
             evaluate = Regex.Replace(evaluate, @"\\", "");
             evaluate = Regex.Replace(evaluate, @"<0x0b>", "");
             evaluate = Regex.Replace(evaluate, @"<0x1c>", "");
+            evaluate = Regex.Replace(evaluate, @"", "");
 
             return evaluate;
         }

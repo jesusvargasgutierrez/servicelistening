@@ -21,3 +21,4 @@ C:\develop\ServiceListening\ServiceListening\obj\Debug\ServiceListening.csproj.C
 C:\develop\ServiceListening\ServiceListening\obj\Debug\ServiceListening.csproj.CopyComplete
 C:\develop\ServiceListening\ServiceListening\obj\Debug\ServiceListening.exe
 C:\develop\ServiceListening\ServiceListening\obj\Debug\ServiceListening.pdb
+C:\develop\ServiceListening\ServiceListening\obj\Debug\ServiceListening.csproj.AssemblyReference.cache

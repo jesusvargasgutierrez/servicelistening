@@ -130,6 +130,7 @@ namespace BussinessService
 
             evaluate = Regex.Replace(evaluate, @"\s+", "");
             evaluate = Regex.Replace(evaluate, @"\\", "");
+            evaluate = Regex.Replace(evaluate, @"", "");
 
             return evaluate;
         }

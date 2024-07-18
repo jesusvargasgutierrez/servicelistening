@@ -3,7 +3,6 @@ C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\Serviceapp.deps.
 C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\Serviceapp.runtimeconfig.json
 C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\Serviceapp.runtimeconfig.dev.json
 C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\Serviceapp.dll
-C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\ref\Serviceapp.dll
 C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\Serviceapp.pdb
 C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
 C:\develop\ServiceListening\serviceapp\bin\Debug\net5.0-windows\BussinessService.dll
@@ -20,3 +19,4 @@ C:\develop\ServiceListening\serviceapp\obj\Debug\net5.0-windows\Serviceapp.dll
 C:\develop\ServiceListening\serviceapp\obj\Debug\net5.0-windows\ref\Serviceapp.dll
 C:\develop\ServiceListening\serviceapp\obj\Debug\net5.0-windows\Serviceapp.pdb
 C:\develop\ServiceListening\serviceapp\obj\Debug\net5.0-windows\Serviceapp.genruntimeconfig.cache
+C:\develop\ServiceListening\serviceapp\obj\Debug\net5.0-windows\refint\Serviceapp.dll
